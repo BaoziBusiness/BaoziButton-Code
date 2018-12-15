@@ -1,6 +1,6 @@
 # The Baozi Button Source Code
 
-Here you can find the code running inside of the Baozi Button.
+Here you can find the code running inside of the Baozi Button. It is written with the Arduino IDE in the Arduino ecosystem; so expect an Arduinoish C slang. 
 
 Licence: CC BY-SA 4.0
 
